@@ -7,6 +7,8 @@
 
 ## Tools and Libraries
 
+- Pandas
+
 ## Instructions
 
 ## Visuals
